@@ -3,4 +3,5 @@ One more test is coming to test the - git pull
 now im test the pull from the remote repo 
 We got lost of work to do 
 
-+++learning about git config command at system, global and local. 
++++learning about git config command at system, global and local.
+now - im pulling into the working dir - via local repo. 
